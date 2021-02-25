@@ -2,10 +2,10 @@
   "name": "tarodemo",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "tarodemo",
   "templateInfo": {
     "name": "taro-ui",
-    "typescript": false,
+    "typescript": true,
     "css": "less"
   },
   "scripts": {
@@ -55,6 +55,9 @@
     "eslint": "^6.8.0",
     "eslint-config-taro": "3.0.27",
     "stylelint": "9.3.0",
+    "@typescript-eslint/parser": "^2.x",
+    "@typescript-eslint/eslint-plugin": "^2.x",
+    "typescript": "^3.7.0",
     "@types/react": "^16.0.0",
     "eslint-plugin-react": "^7.8.2",
     "eslint-plugin-import": "^2.12.0",
