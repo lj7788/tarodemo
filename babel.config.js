@@ -4,7 +4,7 @@ module.exports = {
   presets: [
     ['taro', {
       framework: 'nerv',
-      ts: false
+      ts: true
     }]
   ]
 }
